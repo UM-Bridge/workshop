@@ -1,3 +1,9 @@
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 1px solid black;
+        }
+</style>
+
 # UM-Bridge Workshop 2022
 
 ![UM-Bridge logo](/UM-bridge.png)
