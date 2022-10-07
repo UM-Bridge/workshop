@@ -1,9 +1,3 @@
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 1px solid black;
-        }
-</style>
-
 # UM-Bridge Workshop 2022
 
 ![UM-Bridge logo](/UM-bridge.png)
@@ -35,6 +29,7 @@ For practical exercises, you will need working installations of
 ## Schedule
 
 ### Monday, December 12
+
 | Time | Session |
 | --- | --- |
 | 9:00 - 9:40 | Talk: Introduction to UM-Bridge |
@@ -46,9 +41,9 @@ For practical exercises, you will need working installations of
 | 13:40 - 14:40 | Brief introductions of participants |
 | 14:40 - 15:00 | Coffe break |
 | 15:00 - 17:00 | Practical: Containerized models (Optionally: Participants' projects) |
-{: .tablelines}
 
 ### Tuesday, December 13
+
 | Time | Session |
 | --- | --- |
 | 9:00 - 10:00 | Talks: Cloud-based HPC for UM-Bridge models |
@@ -57,4 +52,3 @@ For practical exercises, you will need working installations of
 |  |  |
 | 13:00 - 16:30 | Practical: Participants' projects |
 | 16:30 - 17:00 | Wrap-up |
-{: .tablelines}
