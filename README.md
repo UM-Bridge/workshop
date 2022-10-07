@@ -40,6 +40,7 @@ For practical exercises, you will need working installations of
 | 13:40 - 14:40 | Brief introductions of participants |
 | 14:40 - 15:00 | Coffe break |
 | 15:00 - 17:00 | Practical: Containerized models (Optionally: Participants' projects) |
+{: .tablelines}
 
 ### Tuesday, December 13
 | Time | Session |
@@ -50,3 +51,4 @@ For practical exercises, you will need working installations of
 |  |  |
 | 13:00 - 16:30 | Practical: Participants' projects |
 | 16:30 - 17:00 | Wrap-up |
+{: .tablelines}
