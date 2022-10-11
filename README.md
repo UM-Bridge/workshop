@@ -10,6 +10,11 @@ This workshop has the following goals:
 * Initiate new collaborations between UQ and model experts
 * Advance the UQ software ecosystem through common interfaces, unified benchmarks and access to cloud-based HPC
 
+## Organizers
+
+* Anne Reinarz [anne.k.reinarz@durham.ac.uk](mailto:anne.k.reinarz@durham.ac.uk)
+* Linus Seelinger [linus.seelinger@iwr.uni-heidelberg.de](mailto:linus.seelinger@iwr.uni-heidelberg.de)
+
 ## Time and Location
 
 The workshop will be held online and span two days:
@@ -18,7 +23,9 @@ The workshop will be held online and span two days:
 
 ## Registration
 
-TBA
+Registration is available until Thursday, November 17, through the [registration form](https://forms.gle/ndMiRwB7mpiLxrpM8).
+
+The limit is 50 participants. In case of reaching the limit, registration will close early.
 
 ## Prerequisites
 
