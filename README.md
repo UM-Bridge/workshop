@@ -41,12 +41,12 @@ For practical exercises, you will need working installations of
 | --- | --- |
 | 9:00 - 9:40 | Talk: Introduction to UM-Bridge |
 | 9:40 - 10:40 | Brief talks: Overview of existing UM-Bridge projects |
-| 10:40 - 11:00 | Coffe break |
+| 10:40 - 11:00 | Coffee break |
 | 11:00 - 12:00 | Practical: UM-Bridge (Optional: Participants' projects) |
 |  |  |
 | 13:00 - 13:40 | Talk: Intro Docker containers, containerized UM-Bridge models/benchmarks |
 | 13:40 - 14:40 | Brief introductions of participants |
-| 14:40 - 15:00 | Coffe break |
+| 14:40 - 15:00 | Coffee break |
 | 15:00 - 17:00 | Practical: Containerized models (Optional: Participants' projects) |
 
 ### Tuesday, December 13
