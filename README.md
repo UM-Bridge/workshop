@@ -21,6 +21,8 @@ The workshop will be held online and span two days:
 * Monday, December 12, 09:00 - 17:00 CET
 * Tuesday, December 13, 09:00 - 17:00 CET
 
+We plan to use gather.town as our online platform; details are TBA.
+
 ## Registration
 
 Registration is available until Thursday, November 17, through the [registration form](https://forms.gle/ndMiRwB7mpiLxrpM8).
