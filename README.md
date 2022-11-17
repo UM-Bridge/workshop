@@ -25,9 +25,7 @@ We plan to use gather.town as our online platform; details are TBA.
 
 ## Registration
 
-Registration is available until Thursday, November 17, through the [registration form](https://forms.gle/ndMiRwB7mpiLxrpM8).
-
-The limit is 50 participants. In case of reaching the limit, registration will close early.
+Registration is available through the [registration form](https://forms.gle/ndMiRwB7mpiLxrpM8), up to the limit of 50 participants.
 
 ## Prerequisites
 
