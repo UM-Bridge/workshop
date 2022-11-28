@@ -39,12 +39,12 @@ For practical exercises, you will need working installations of
 
 | Time | Session |
 | --- | --- |
-| 9:00 - 9:40 | Talk: Introduction to UM-Bridge |
+| 9:00 - 9:40 | Linus Seelinger (Heidelberg uni.): Introduction to UM-Bridge |
 | 9:40 - 10:40 | Brief talks: Overview of existing UM-Bridge projects |
 | 10:40 - 11:00 | Coffee break |
 | 11:00 - 12:00 | Practical: UM-Bridge (Optional: Participants' projects) |
 |  |  |
-| 13:00 - 13:40 | Talk: Intro Docker containers, containerized UM-Bridge models/benchmarks |
+| 13:00 - 13:40 | Anne Reinarz (Durham uni.): Intro Docker containers, containerized UM-Bridge models/benchmarks |
 | 13:40 - 14:40 | Brief introductions of participants |
 | 14:40 - 15:00 | Coffee break |
 | 15:00 - 17:00 | Practical: Containerized models (Optional: Participants' projects) |
@@ -53,7 +53,8 @@ For practical exercises, you will need working installations of
 
 | Time | Session |
 | --- | --- |
-| 9:00 - 10:00 | Talks: Cloud-based HPC for UM-Bridge models |
+| 9:00 - 9:30 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
+| 9:30 - 10:00 | Linus Seelinger (Heidelberg uni.): Cloud-based HPC for UM-Bridge models |
 | 10:00 - 10:20 | Coffee break |
 | 10:20 - 12:00 | Discussion groups |
 |  |  |
