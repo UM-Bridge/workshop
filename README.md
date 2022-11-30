@@ -52,7 +52,7 @@ Times below in CET (GMT+1).
 | 13:40 - 14:40 | Brief introductions of participants |
 | 14:40 - 15:00 | Coffee break |
 | 15:00 - 15:20 | Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy |
-| 15:20 - 17:00 | Practical: Containerized models / Participants' projects) |
+| 15:20 - 17:00 | Practical: Containerized models / Participants' projects |
 
 ### Tuesday, December 13
 
