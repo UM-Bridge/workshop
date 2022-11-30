@@ -35,6 +35,8 @@ For practical exercises, you will need working installations of
 
 ## Schedule
 
+Times below in CET (GMT+1).
+
 ### Monday, December 12
 
 | Time | Session |
