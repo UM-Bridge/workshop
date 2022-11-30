@@ -39,15 +39,18 @@ For practical exercises, you will need working installations of
 
 | Time | Session |
 | --- | --- |
-| 9:00 - 9:40 | Linus Seelinger (Heidelberg uni.): Introduction to UM-Bridge |
-| 9:40 - 10:40 | Brief talks: Overview of existing UM-Bridge projects |
-| 10:40 - 11:00 | Coffee break |
-| 11:00 - 12:00 | Practical: UM-Bridge (Optional: Participants' projects) |
+| 9:00 - 9:10 | Welcome |
+| 9:10 - 9:40 | Linus Seelinger (Heidelberg uni.): Introduction to UM-Bridge |
+| 9:40 - 10:00 | Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance MCMC with tinyDA |
+| 10:00 - 10:20 | Niu Zihua (LMU Munich): UQ on geophysics model using ExaHyPE and MUQ |
+| 10:20 - 10:40 | Coffee break |
+| 10:40 - 12:00 | Practical: UM-Bridge / Participants' projects |
 |  |  |
 | 13:00 - 13:40 | Anne Reinarz (Durham uni.): Intro Docker containers, containerized UM-Bridge models/benchmarks |
 | 13:40 - 14:40 | Brief introductions of participants |
 | 14:40 - 15:00 | Coffee break |
-| 15:00 - 17:00 | Practical: Containerized models (Optional: Participants' projects) |
+| 15:00 - 15:20 | Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy |
+| 15:20 - 17:00 | Practical: Containerized models / Participants' projects) |
 
 ### Tuesday, December 13
 
@@ -56,7 +59,8 @@ For practical exercises, you will need working installations of
 | 9:00 - 9:30 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
 | 9:30 - 10:00 | Linus Seelinger (Heidelberg uni.): Cloud-based HPC for UM-Bridge models |
 | 10:00 - 10:20 | Coffee break |
-| 10:20 - 12:00 | Discussion groups |
+| 10:20 - 10:40 | Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models |
+| 10:40 - 12:00 | Discussion groups |
 |  |  |
 | 13:00 - 16:30 | Practical: Participants' projects |
 | 16:30 - 17:00 | Wrap-up |
