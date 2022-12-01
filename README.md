@@ -62,7 +62,8 @@ Times below in CET (GMT+1).
 | 9:30 - 10:00 | Linus Seelinger (Heidelberg uni.): Cloud-based HPC for UM-Bridge models |
 | 10:00 - 10:20 | Coffee break |
 | 10:20 - 10:40 | Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models |
-| 10:40 - 12:00 | Discussion groups |
+| 10:40 - 11:00 | Andrea Serani (CNR-INM Rome) / Lorenzo Tamellini (CNR-IMATI Pavia) : Sparse grids applied to naval model |
+| 11:00 - 12:00 | Discussion groups |
 |  |  |
 | 13:00 - 16:30 | Practical: Participants' projects |
 | 16:30 - 17:00 | Wrap-up |
