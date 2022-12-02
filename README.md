@@ -18,8 +18,8 @@ This workshop has the following goals:
 ## Time and Location
 
 The workshop will be held online and span two days:
-* Monday, December 12, 09:00 - 17:00 CET
-* Tuesday, December 13, 09:00 - 17:00 CET
+* Monday, December 12, 10:00 - 18:00 CET
+* Tuesday, December 13, 10:00 - 18:00 CET
 
 We plan to use gather.town as our online platform; details are TBA.
 
@@ -41,29 +41,29 @@ Times below in CET (GMT+1).
 
 | Time | Session |
 | --- | --- |
-|  9:00 -  9:10 | Welcome |
-|  9:10 -  9:40 | Linus Seelinger (Heidelberg uni.): Introduction to UM-Bridge |
-|  9:40 - 10:00 |   Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance MCMC with tinyDA |
-| 10:00 - 10:20 |   Niu Zihua (LMU Munich): UQ on geophysics model using ExaHyPE and MUQ |
-| 10:20 - 10:40 | Coffee break |
-| 10:40 - 12:00 | Practical: UM-Bridge / Participants' projects |
+| 10:00 - 10:10 | Welcome |
+| 10:10 - 10:40 | Linus Seelinger (Heidelberg uni.): Introduction to UM-Bridge |
+| 10:40 - 11:00 |   Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance MCMC with tinyDA |
+| 11:00 - 11:20 |   Niu Zihua (LMU Munich): UQ on geophysics model using ExaHyPE and MUQ |
+| 11:20 - 11:40 | Coffee break |
+| 11:40 - 13:00 | Practical: UM-Bridge / Participants' projects |
 |  |  |
-| 13:00 - 13:40 | Anne Reinarz (Durham uni.): Intro Docker containers, containerized UM-Bridge models/benchmarks |
-| 13:40 - 14:40 | Brief introductions of participants |
-| 14:40 - 15:00 | Coffee break |
-| 15:00 - 15:20 |   Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy |
-| 15:20 - 17:00 | Practical: Containerized models / Participants' projects |
+| 14:00 - 14:40 | Anne Reinarz (Durham uni.): Intro Docker containers, containerized UM-Bridge models/benchmarks |
+| 14:40 - 15:40 | Brief introductions of participants |
+| 15:40 - 16:00 | Coffee break |
+| 16:00 - 16:20 |   Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy |
+| 16:20 - 18:00 | Practical: Containerized models / Participants' projects |
 
 ### Tuesday, December 13
 
 | Time | Session |
 | --- | --- |
-|  9:00 -  9:30 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
-|  9:30 - 10:00 | Linus Seelinger (Heidelberg uni.): Cloud-based HPC for UM-Bridge models |
-| 10:00 - 10:20 | Coffee break |
-| 10:20 - 10:40 |   Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models |
-| 10:40 - 11:00 |   Andrea Serani (CNR-INM Rome) / Lorenzo Tamellini (CNR-IMATI Pavia) : Sparse grids applied to naval model |
-| 11:00 - 12:00 | Discussion groups |
+| 10:00 - 10:30 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
+| 10:30 - 11:00 | Linus Seelinger (Heidelberg uni.): Cloud-based HPC for UM-Bridge models |
+| 11:00 - 11:20 | Coffee break |
+| 11:20 - 11:40 |   Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models |
+| 11:40 - 12:00 |   Andrea Serani (CNR-INM Rome) / Lorenzo Tamellini (CNR-IMATI Pavia) : Sparse grids applied to naval model |
+| 12:00 - 13:00 | Discussion groups |
 |  |  |
-| 13:00 - 16:30 | Practical: Participants' projects |
-| 16:30 - 17:00 | Wrap-up |
+| 14:00 - 17:30 | Practical: Participants' projects |
+| 17:30 - 18:00 | Wrap-up |
