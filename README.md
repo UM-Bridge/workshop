@@ -37,21 +37,23 @@ For practical exercises, you will need working installations of
 
 Times below in CET (GMT+1).
 
+*Italic: Invited talks about ongoing UQ projects involving UM-Bridge*
+
 ### Monday, December 12
 
 | Time | Session |
 | --- | --- |
 | 10:00 - 10:10 | Welcome |
 | 10:10 - 10:40 | Linus Seelinger (Heidelberg uni.): Introduction to UM-Bridge |
-| 10:40 - 11:00 |   Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance MCMC with tinyDA |
-| 11:00 - 11:20 |   Niu Zihua (LMU Munich): UQ on geophysics model using ExaHyPE and MUQ |
+| 10:40 - 11:00 | *Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance MCMC with tinyDA* |
+| 11:00 - 11:20 | *Niu Zihua (LMU Munich): UQ on geophysics model using ExaHyPE and MUQ* |
 | 11:20 - 11:40 | Coffee break |
 | 11:40 - 13:00 | Practical: UM-Bridge / Participants' projects |
 |  |  |
 | 14:00 - 14:40 | Anne Reinarz (Durham uni.): Intro Docker containers, containerized UM-Bridge models/benchmarks |
 | 14:40 - 15:40 | Brief introductions of participants |
 | 15:40 - 16:00 | Coffee break |
-| 16:00 - 16:20 |   Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy |
+| 16:00 - 16:20 | *Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy* |
 | 16:20 - 18:00 | Practical: Containerized models / Participants' projects |
 
 ### Tuesday, December 13
@@ -61,8 +63,8 @@ Times below in CET (GMT+1).
 | 10:00 - 10:30 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
 | 10:30 - 11:00 | Linus Seelinger (Heidelberg uni.): Cloud-based HPC for UM-Bridge models |
 | 11:00 - 11:20 | Coffee break |
-| 11:20 - 11:40 |   Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models |
-| 11:40 - 12:00 |   Andrea Serani (CNR-INM Rome) / Lorenzo Tamellini (CNR-IMATI Pavia) : Sparse grids applied to naval model |
+| 11:20 - 11:40 | *Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models* |
+| 11:40 - 12:00 | *Andrea Serani (CNR-INM Rome) / Lorenzo Tamellini (CNR-IMATI Pavia) : Sparse grids applied to naval model* |
 | 12:00 - 13:00 | Discussion groups |
 |  |  |
 | 14:00 - 17:30 | Practical: Participants' projects |
