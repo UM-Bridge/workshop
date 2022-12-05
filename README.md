@@ -37,7 +37,7 @@ For practical exercises, you will need working installations of
 
 Times below in CET (GMT+1).
 
-*Italic: Invited talks about ongoing UQ projects involving UM-Bridge*
+*Italic: Invited talks about ongoing UQ projects involving UM-Bridge.*
 
 ### Monday, December 12
 
