@@ -20,6 +20,7 @@ This workshop has the following goals:
 The workshop will be held online and span two days:
 * Monday, December 12, 10:00 - 18:00 CET
 * Tuesday, December 13, 10:00 - 18:00 CET
+* For American time zones, we offer additional late sessions
 
 We plan to use gather.town as our online platform; details are TBA.
 
@@ -59,6 +60,8 @@ Times below in CET (GMT+1).
 | 15:40 - 16:00 | Coffee break |
 | 16:00 - 16:20 | *Aleksei Sorokin (Illinois Institute of Technology): Quasi-Monte Carlo with QMCPy* |
 | 16:20 - 18:00 | Practical: Containerized models / Participants' projects |
+|  |  |
+| 20:00 - 21:00 | Late session: Q&A, discussions, etc. (primarily for western time zones) |
 
 ### Tuesday, December 13
 
@@ -74,3 +77,5 @@ Times below in CET (GMT+1).
 | 14:00 - 15:00 | Discussion groups |
 | 15:00 - 17:30 | Practical: Participants' projects |
 | 17:30 - 18:00 | Wrap-up |
+|  |  |
+| 20:00 - 21:00 | Late session: Q&A, discussions, etc. (primarily for western time zones) |
