@@ -29,7 +29,7 @@ Registration is available through the [registration form](https://forms.gle/ndMi
 
 ## Introduction session
 
-We will have a short session where each participant may (optionally) introduce themselves and say a few words about their research interests and current projects. This is supposed to help in finding interesting discussion partners. If you'd like to participate and show something, please send me up to 3 PDF slides until Saturday (Dec. 10); I will compile them in a single document to avoid delays in between.
+We will have a short session where each participant may (optionally) introduce themselves and say a few words about their research interests and current projects. This is supposed to help in finding interesting discussion partners. If you'd like to participate and show something, please send me up to 3 PDF slides until Saturday (Dec. 10) to [linus.seelinger@iwr.uni-heidelberg.de](mailto:linus.seelinger@iwr.uni-heidelberg.de); I will compile them in a single document to avoid delays in between.
 
 ## Prerequisites
 
