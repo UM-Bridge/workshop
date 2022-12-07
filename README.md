@@ -27,6 +27,10 @@ We plan to use gather.town as our online platform; details are TBA.
 
 Registration is available through the [registration form](https://forms.gle/ndMiRwB7mpiLxrpM8), up to the limit of 50 participants.
 
+## Introduction session
+
+We will have a short session where each participant may (optionally) introduce themselves and say a few words about their research interests and current projects. This is supposed to help in finding interesting discussion partners. If you'd like to participate and show something, please send me up to 3 PDF slides until Saturday (Dec. 10); I will compile them in a single document to avoid delays in between.
+
 ## Prerequisites
 
 For practical exercises, you will need working installations of
@@ -65,7 +69,8 @@ Times below in CET (GMT+1).
 | 11:00 - 11:20 | Coffee break |
 | 11:20 - 11:40 | *Jean Bénézech (University of Bath): GMsFEM for carbon fiber composite models* |
 | 11:40 - 12:00 | *Andrea Serani (CNR-INM Rome) / Lorenzo Tamellini (CNR-IMATI Pavia) : Sparse grids applied to naval model* |
-| 12:00 - 13:00 | Discussion groups |
+| 12:00 - 13:00 | Practical: Participants' projects |
 |  |  |
-| 14:00 - 17:30 | Practical: Participants' projects |
+| 14:00 - 15:00 | Discussion groups |
+| 15:00 - 17:30 | Practical: Participants' projects |
 | 17:30 - 18:00 | Wrap-up |
