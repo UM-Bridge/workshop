@@ -79,3 +79,7 @@ Times below in CET (GMT+1).
 | 17:30 - 18:00 | Wrap-up |
 |  |  |
 | 20:00 - 21:00 | Late session: Q&A, discussions, etc. (primarily for western time zones) |
+
+## Talk Recordings
+
+[Recordings](https://www.youtube.com/playlist?list=PL7OAH1T9Tl0Y7VJyS0CogICcOiQOfMX_A)
