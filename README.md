@@ -10,6 +10,10 @@ This workshop has the following goals:
 * Initiate new collaborations between UQ and model experts
 * Advance the UQ software ecosystem through common interfaces, unified benchmarks and access to cloud-based HPC
 
+## Talk Recordings
+
+Some of the talks are available online: [Recordings](https://www.youtube.com/playlist?list=PL7OAH1T9Tl0Y7VJyS0CogICcOiQOfMX_A)
+
 ## Organizers
 
 * Anne Reinarz [anne.k.reinarz@durham.ac.uk](mailto:anne.k.reinarz@durham.ac.uk)
@@ -79,7 +83,3 @@ Times below in CET (GMT+1).
 | 17:30 - 18:00 | Wrap-up |
 |  |  |
 | 20:00 - 21:00 | Late session: Q&A, discussions, etc. (primarily for western time zones) |
-
-## Talk Recordings
-
-[Recordings](https://www.youtube.com/playlist?list=PL7OAH1T9Tl0Y7VJyS0CogICcOiQOfMX_A)
