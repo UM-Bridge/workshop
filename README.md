@@ -45,7 +45,7 @@ For practical exercises, you will need working installations of
 
 All times in CET (GMT+1).
 
-*Italic: Invited talks.*
+*Italic: Invited talks related to UM-Bridge.*
 
 ### Monday, 11. December 2023
 
@@ -58,8 +58,8 @@ All times in CET (GMT+1).
 | 13:00 | Linus Seelinger (KIT Karlsruhe): Introduction to UM-Bridge |
 | 13:40 | Practical: UM-Bridge basics / Participants' projects |
 | 14:40 | Brief introductions of participants |
-| 15:00 | *TBA* |
-| 15:20 | *TBA* |
+| 15:00 | *Sergey Dolgov (Bath University): Tensor Train Toolbox* |
+| 15:20 | *Dave Ponting (OpenGoSim): Coupling Pflotran-OGS reservoir simulator to applications* |
 | 15:40 | Coffee break |
 | 16:00 | Anne Reinarz (Durham uni.): Intro containers, containerized UM-Bridge models/benchmarks |
 | 16:40 | Practical: Containerized models / Participants' projects |
@@ -79,7 +79,7 @@ All times in CET (GMT+1).
 | 13:30 | Linus Seelinger (KIT Karlsruhe): Cloud-based HPC for UM-Bridge models |
 | 14:00 | Practical: UM-Bridge cloud + HPC / Participants' projects |
 | 15:00 | Coffee break |
-| 15:20 | *TBA* |
+| 15:20 | *Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance, UM-Bridge at digiLab* |
 | 15:40 | *TBA* |
 | 16:00 | Discussion groups |
 | 16:30 | Wrap-up |
