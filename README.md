@@ -54,14 +54,13 @@ All times in CET (GMT+1).
 | 11:30 | *TBA* |
 | 11:50 | Lunch break |
 | 13:00 | Linus Seelinger (KIT Karlsruhe): Introduction to UM-Bridge |
-| 13:40 | Practical: UM-Bridge / Participants' projects |
-| 14:40 | Coffee break |
-| 15:00 | Brief introductions of participants |
+| 13:40 | Practical: UM-Bridge basics / Participants' projects |
+| 14:40 | Brief introductions of participants |
+| 15:00 | *TBA* |
 | 15:20 | *TBA* |
-| 15:40 | *TBA* |
-| 16:00 | Coffee break |
-| 16:20 | Anne Reinarz (Durham uni.): Intro containers, containerized UM-Bridge models/benchmarks |
-| 17:00 | Practical: Containerized models / Participants' projects |
+| 15:40 | Coffee break |
+| 16:00 | Anne Reinarz (Durham uni.): Intro containers, containerized UM-Bridge models/benchmarks |
+| 16:40 | Practical: Containerized models / Participants' projects |
 | 18:00 | |
 |  |  |
 | 20:00 | Late session: Practical, participants' projects (primarily for western time zones) |
@@ -74,16 +73,15 @@ All times in CET (GMT+1).
 | 11:20 | *TBA* |
 | 11:40 | *TBA* |
 | 12:00 | Lunch break |
-| 13:00 | Linus Seelinger (KIT Karlsruhe): Cloud-based HPC for UM-Bridge models |
-| 13:40 | Practical: UM-Bridge cloud + HPC / Participants' projects |
-| 14:40 | Coffee break |
-| 15:00 | *TBA* |
+| 13:00 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
+| 13:30 | Linus Seelinger (KIT Karlsruhe): Cloud-based HPC for UM-Bridge models |
+| 14:00 | Practical: UM-Bridge cloud + HPC / Participants' projects |
+| 15:00 | Coffee break |
 | 15:20 | *TBA* |
 | 15:40 | *TBA* |
-| 16:00 | Coffee break |
-| 16:20 | Discussion groups |
-| 16:50 | Wrap-up |
-| 17:00 | Practical: Participants' projects |
+| 16:00 | Discussion groups |
+| 16:30 | Wrap-up |
+| 16:40 | Practical: Participants' projects |
 | 18:00 | |
 |  |  |
 | 20:00 | Late session: Practical, participants' projects (primarily for western time zones) |
