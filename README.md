@@ -58,7 +58,7 @@ All times in CET (GMT+1).
 | 13:00 | Linus Seelinger (KIT Karlsruhe): Introduction to UM-Bridge |
 | 13:40 | Practical: UM-Bridge basics / Participants' projects |
 | 14:40 | Brief introductions of participants |
-| 15:00 | *Sergey Dolgov (Bath University): Tensor Train Toolbox* |
+| 15:00 | *Sergey Dolgov (Bath uni.): Tensor Train Toolbox* |
 | 15:20 | *Dave Ponting (OpenGoSim): Coupling Pflotran-OGS reservoir simulator to applications* |
 | 15:40 | Coffee break |
 | 16:00 | Anne Reinarz (Durham uni.): Intro containers, containerized UM-Bridge models/benchmarks |
