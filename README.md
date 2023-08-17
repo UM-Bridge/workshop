@@ -52,8 +52,8 @@ All times in CET (GMT+1).
 | Time | Session |
 | --- | --- |
 | 11:00 | Welcome |
-| 11:10 | *TBA* |
-| 11:30 | *TBA* |
+| 11:10 | *Katherine Rosenfeld (Gates Foundation): UQ in disease models* |
+| 11:30 | *Delphine Sinoquet (IFP Energies nouvelles): Lagun - User friendly UQ framework* |
 | 11:50 | Lunch break |
 | 13:00 | Linus Seelinger (KIT Karlsruhe): Introduction to UM-Bridge |
 | 13:40 | Practical: UM-Bridge basics / Participants' projects |
@@ -72,7 +72,7 @@ All times in CET (GMT+1).
 | Time | Session |
 | --- | --- |
 | 11:00 | *TBA* |
-| 11:20 | *TBA* |
+| 11:20 | *Thomas Schillinger (Mannheim uni.): UQ in traffic models* |
 | 11:40 | *TBA* |
 | 12:00 | Lunch break |
 | 13:00 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
