@@ -2,7 +2,7 @@
 
 ![UM-Bridge logo](/UM-bridge.png)
 
-UM-Bridge is a language-agnostic software interface linking Uncertainty Quantification (UQ) and numerical models. It allows
+UM-Bridge is a language-agnostic interface linking Uncertainty Quantification (UQ) packages and numerical model software. It allows
 
 * Speeding up UQ projects from prototype to HPC
 * Making UQ and model software available to a wide audience
