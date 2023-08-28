@@ -5,17 +5,16 @@
 UM-Bridge is a language-agnostic software interface linking Uncertainty Quantification (UQ) and numerical models. It allows
 
 * Speeding up UQ projects from prototype to HPC
-* UQ experts to make their codes available to a wide audience
-* Model experts to access advanced UQ packages
-* Running reproducible, community-defined UQ benchmarks
+* Making UQ and model software available to a wide audience
+* Reproducible, community-driven UQ benchmarking
 
 For more information, see [UM-Bridge documentation](https://um-bridge-benchmarks.readthedocs.io/en/docs/).
 
 This workshop has the following goals:
 
 * Get users familiar with UM-Bridge
-* Advance the UQ software ecosystem
 * Initiate collaborations between UQ and model experts
+* Advance the UQ software ecosystem
 
 ## Organizers
 
