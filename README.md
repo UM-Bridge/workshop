@@ -72,7 +72,7 @@ All times in CET (GMT+1).
 | --- | --- |
 | 11:00 | *TBA* |
 | 11:20 | *Thomas Schillinger (Mannheim uni.): UQ in traffic models* |
-| 11:40 | *TBA* |
+| 11:40 | *Sebastian Krumscheid (KIT Karlsruhe)* |
 | 12:00 | Lunch break |
 | 13:00 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
 | 13:30 | Linus Seelinger (KIT Karlsruhe): Cloud-based HPC for UM-Bridge models |
