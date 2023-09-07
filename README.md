@@ -70,7 +70,7 @@ All times in CET (GMT+1).
 
 | Time | Session |
 | --- | --- |
-| 11:00 | *TBA* |
+| 11:00 | *Niklas Baumgarten (KIT Karlsruhe): UM++ Bridge - Accessing Models and Methods from FEM Software M++ via UM-Bridge* |
 | 11:20 | *Thomas Schillinger (Mannheim uni.): UQ in traffic models* |
 | 11:40 | *Sebastian Krumscheid (KIT Karlsruhe)* |
 | 12:00 | Lunch break |
