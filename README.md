@@ -79,7 +79,7 @@ All times in CET (GMT+1).
 | 14:00 | Practical: UM-Bridge cloud + HPC / Participants' projects |
 | 15:00 | Coffee break |
 | 15:20 | *Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance, UM-Bridge at digiLab* |
-| 15:40 | *TBA* |
+| 15:40 | *Kolhaas, Rebecca (Stuttgart uni.): Bayesvalidrox - Surrogate-assisted Bayesian Validation of computational models* |
 | 16:00 | Discussion groups |
 | 16:30 | Wrap-up |
 | 16:40 | Practical: Participants' projects |
