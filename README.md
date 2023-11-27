@@ -59,7 +59,7 @@ All times in CET (GMT+1).
 | 14:40 | Brief introductions of participants |
 | 15:00 | *Sergey Dolgov (Bath uni.): Tensor Train Toolbox* |
 | 15:20 | *Dave Ponting (OpenGoSim): Coupling Pflotran-OGS reservoir simulator to applications* |
-| 15:40 | *Dimitrios Tsapetis (Johns Hopkins uni.): UQPy*|
+| 15:40 | *Dimitrios Tsapetis (Johns Hopkins uni.): UQpy*|
 | 16:00 | Coffee break |
 | 16:20 | Anne Reinarz (Durham uni.): Intro containers, containerized UM-Bridge models/benchmarks |
 | 17:00 | Practical: Containerized models / Participants' projects |
