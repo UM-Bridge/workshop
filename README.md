@@ -51,13 +51,13 @@ All times in CET (GMT+1).
 | Time | Session |
 | --- | --- |
 | 11:00 | Welcome |
-| 11:10 | *Katherine Rosenfeld (Gates Foundation): UQ in disease models* |
+| 11:10 | *Sergey Dolgov (Bath uni.): Tensor Train Toolbox* |
 | 11:30 | *Delphine Sinoquet (IFP Energies nouvelles): Lagun - User friendly UQ framework* |
 | 11:50 | Lunch break |
 | 13:00 | Linus Seelinger (KIT Karlsruhe): Introduction to UM-Bridge |
 | 13:40 | Practical: UM-Bridge basics / Participants' projects |
 | 14:40 | Brief introductions of participants |
-| 15:00 | *Sergey Dolgov (Bath uni.): Tensor Train Toolbox* |
+| 15:00 | *Katherine Rosenfeld (Gates Foundation): UQ in disease models* |
 | 15:20 | *Dave Ponting (OpenGoSim): Coupling Pflotran-OGS reservoir simulator to applications* |
 | 15:40 | *Dimitrios Tsapetis (Johns Hopkins uni.): UQpy*|
 | 16:00 | Coffee break |
