@@ -83,7 +83,7 @@ All times in CET (GMT+1).
 | 15:40 | *Kolhaas, Rebecca (Stuttgart uni.): Bayesvalidrox - Surrogate-assisted Bayesian Validation of computational models* |
 | 16:00 | Discussion groups |
 | 16:30 | Discussion wrap-up |
-| 16:40 | *Ravin Kumar* |
+| 16:40 | *Ravin Kumar (Google): Building the worlds biggest rockets at SpaceX with pymc* |
 | 17:00 | Practical: Participants' projects |
 | 18:00 | |
 |  |  |
