@@ -82,8 +82,9 @@ All times in CET (GMT+1).
 | 15:20 | *Mikkel Lykkegaard (digiLab Solutions): Multilevel Delayed Acceptance, UM-Bridge at digiLab* |
 | 15:40 | *Kolhaas, Rebecca (Stuttgart uni.): Bayesvalidrox - Surrogate-assisted Bayesian Validation of computational models* |
 | 16:00 | Discussion groups |
-| 16:30 | Wrap-up |
-| 16:40 | Practical: Participants' projects |
+| 16:30 | Discussion wrap-up |
+| 16:40 | *Ravin Kumar* |
+| 17:00 | Practical: Participants' projects |
 | 18:00 | |
 |  |  |
 | 20:00 | Late session: Practical, participants' projects (primarily for western time zones) |
