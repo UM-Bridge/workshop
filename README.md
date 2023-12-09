@@ -73,7 +73,7 @@ All times in CET (GMT+1).
 | --- | --- |
 | 11:00 | *Niklas Baumgarten (KIT Karlsruhe): UM++ Bridge - Accessing Models and Methods from FEM Software M++ via UM-Bridge* |
 | 11:20 | *Thomas Schillinger (Mannheim uni.): UQ in traffic models* |
-| 11:40 | *Sebastian Krumscheid (KIT Karlsruhe)* |
+| 11:40 | *Sebastian Krumscheid (KIT Karlsruhe): Multilevel Monte Carlo Methods for Parametric Expectations: Distribution and Robustness Measures* |
 | 12:00 | Lunch break |
 | 13:00 | Cristian Mezzanotte (Google): Cloud platforms, HPC on kubernetes |
 | 13:30 | Linus Seelinger (KIT Karlsruhe): Cloud-based HPC for UM-Bridge models |
