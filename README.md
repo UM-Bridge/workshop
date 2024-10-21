@@ -43,8 +43,6 @@ For practical exercises, you will need working installations of
 
 All times in CET (GMT+1).
 
-*Italic: Invited talks related to UM-Bridge.*
-
 ### Thursday, 5. December 2024
 
 | Time | Session |
