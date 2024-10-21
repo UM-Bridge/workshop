@@ -31,7 +31,7 @@ We will use gather.town as our online platform.
 
 ## Registration
 
-Registration is available through the [registration form](https://forms.gle/9bri2gH6jJX4RCUQ6) until December 1st.
+Registration is available through the [registration form](https://forms.gle/9bri2gH6jJX4RCUQ6) until November 24th.
 
 ## Prerequisites
 
