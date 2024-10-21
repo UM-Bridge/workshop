@@ -24,8 +24,8 @@ This workshop has the following goals:
 ## Time and Location
 
 The workshop will be held online and span two days:
-* Thursday, December 5, 11:00 - 17:00 CET
-* Friday, December 6, 11:00 - 18:00 CET
+* Thursday, December 5 2024, 11:00 - 17:00 CET
+* Friday, December 6 2024, 11:00 - 18:00 CET
 
 We will use gather.town as our online platform.
 
