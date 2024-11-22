@@ -48,14 +48,33 @@ All times in CET (GMT+1).
 | Time | Session |
 | --- | --- |
 | 11:00 | Welcome |
-| 11:10 | Invited talk (tbd) |
-| 11:40 | Lightning talks |
+| 11:10 | Invited talk  |
+|       | Mikkel Lykkegaard, DigiLab |
+| 11:40 | Short talks |
+|  | *Fabian Kutschera* |
+|  | *Daniel Andrés Arcones* |
+|  | *Max Rudolph* |
+|  | *Carolin Lindow* |
 | 12:00 | Lunch break |
-| 13:00 | Invited talk (tbd) |
-| 13:30 | Participant talks |
-| 15:00 | Coffee break |
-| 15:30 | Participant talks |
-| 16:30 | Invited talk (tbd) |
+| 13:00 | Invited talk: An UM-Bridge-based setup for multi-fidelity surrogate models for UQ  |
+|       | Benjamin Kent, IMATI |
+| 13:30 | Stefano Marelli: Non-intrusive uncertainty quantification with UQLab and UQ[py]Lab |
+| 13:50 | Coffee break |
+| 14:15 | Simon Urbainczyk: Rational Approximation for Deep Gaussian Processes |
+| 14:35 | Short talks | 
+|  | *Balduin Katzer* |
+|  | *Shao-Hung Lan* |
+|  | *Darshan Sarojini* |
+|  | *Pawan Kumar Pandey* |
+|  | *Anil Yildiz* |
+|  | *Prajwal Shandilya Mullur Guruprasad* |
+|  | *Ivana Jovanovi Buha* |
+| 15:10 | Coffee break |
+| 15:40 | Louise Kluge: MLDA for cosmological simulations |
+| 16:00 | Zubin Trivedi: Polymorphic uncertainty quantification for crash models in LS-DYNA |
+| 16:20 | Short break |
+| 16:30 | Invited talk  |
+|       | Katherine Rosenfeld, Gates Foundation |
 
 ### Friday, 6. December 2024
 
@@ -68,6 +87,7 @@ All times in CET (GMT+1).
 | 14:20 | Practical: Containerized models / Participants' projects |
 | 15:00 | Coffee break |
 | 15:40 | Linus Seelinger (KIT Karlsruhe): Cloud-based HPC for UM-Bridge models |
+| 16:00 | Chung Ming Loi (Durham Uni.): UM-Bridge models on classical HPC |
 | 16:20 | Practical: UM-Bridge cloud + HPC / Participants' projects |
 | 17:00 | Discussion groups |
 | 17:30 | Discussion wrap-up |
