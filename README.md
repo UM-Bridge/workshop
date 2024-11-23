@@ -69,7 +69,8 @@ All times in CET (GMT+1).
 |  | *Anil Yildiz* |
 |  | *Prajwal Shandilya Mullur Guruprasad* |
 |  | *Ivana Jovanovi Buha* |
-| 15:10 | Coffee break |
+|  | *Christian Jimenez Beltran* |
+| 15:15 | Coffee break |
 | 15:40 | Louise Kluge: MLDA for cosmological simulations |
 | 16:00 | Zubin Trivedi: Polymorphic uncertainty quantification for crash models in LS-DYNA |
 | 16:20 | Short break |
