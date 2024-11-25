@@ -48,7 +48,7 @@ All times in CET (GMT+1).
 | Time | Session |
 | --- | --- |
 | 11:00 | Welcome |
-| 11:10 | Invited talk  |
+| 11:10 | Invited talk: From Deterministic to Probabilistic: Confidence and Credibility in Data-Driven Models  |
 |       | Mikkel Lykkegaard, DigiLab |
 | 11:40 | Short talks |
 |  | *Fabian Kutschera* |
