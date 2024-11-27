@@ -48,13 +48,15 @@ All times in CET (GMT+1).
 | Time | Session |
 | --- | --- |
 | 11:00 | Welcome |
-| 11:10 | Invited talk: From Deterministic to Probabilistic: Confidence and Credibility in Data-Driven Models  |
+| 11:05 | Invited talk: From Deterministic to Probabilistic: Confidence and Credibility in Data-Driven Models  |
 |       | Mikkel Lykkegaard, DigiLab |
-| 11:40 | Short talks |
+| 11:35 | Short talks |
 |  | *Fabian Kutschera* |
 |  | *Daniel Andrés Arcones* |
 |  | *Max Rudolph* |
 |  | *Carolin Lindow* |
+|  | *Ecem Öz* |
+|  | *V Mithlesh Kumar* |
 | 12:00 | Lunch break |
 | 13:00 | Invited talk: An UM-Bridge-based setup for multi-fidelity surrogate models for UQ  |
 |       | Benjamin Kent, IMATI |
