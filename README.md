@@ -76,7 +76,7 @@ All times in CET (GMT+1).
 | 15:40 | Louise Kluge: MLDA for cosmological simulations |
 | 16:00 | Zubin Trivedi: Polymorphic uncertainty quantification for crash models in LS-DYNA |
 | 16:20 | Short break |
-| 16:30 | Invited talk  |
+| 16:30 | Invited talk: Human in the loop UQ  |
 |       | Katherine Rosenfeld, Gates Foundation |
 
 ### Friday, 6. December 2024
