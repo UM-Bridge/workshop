@@ -39,6 +39,7 @@ For practical exercises, you will need working installations of
 
 ## Schedule
 Tuesday, 9. December 2025
+
 | Time  | Session                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------- |
 | 13:00 | Welcome                                                                                       |
@@ -53,6 +54,7 @@ Tuesday, 9. December 2025
 
 
 Wednesday, 10. December 2025
+
 | Time  | Session                                                                 |
 | ----- | ----------------------------------------------------------------------- |
 | 13:00 | Invited talk: William Hornsby, UKAEA                                    |
