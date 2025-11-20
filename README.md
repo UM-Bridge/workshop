@@ -39,28 +39,30 @@ For practical exercises, you will need working installations of
 
 ## Schedule
 Tuesday, 9. December 2025
-Time 	Session
-13:00 	Welcome
-13:05 	Anne Reinarz (Durham University): Introduction to UM-Bridge
-13:40 	Practical: UM-Bridge basics / Participants' projects
-14:20 	Anne Reinarz (Durham University): Intro containers, containerized UM-Bridge models/benchmarks
-14:40 	Practical: Containerized models / Participants' projects
-15:00 	Coffee break
-15:30 	Chung Ming Loi (Durham Uni.): UM-Bridge models in the cloud and on classical HPC
-16:00 	Practical: UM-Bridge cloud + HPC / Participants' projects
-17:00 	Wrap up
+| Time  | Session                                                                                       |
+| ----- | --------------------------------------------------------------------------------------------- |
+| 13:00 | Welcome                                                                                       |
+| 13:05 | Anne Reinarz (Durham University): Introduction to UM-Bridge                                   |
+| 13:40 | Practical: UM-Bridge basics / Participants' projects                                          |
+| 14:20 | Anne Reinarz (Durham University): Intro containers, containerized UM-Bridge models/benchmarks |
+| 14:40 | Practical: Containerized models / Participants' projects                                      |
+| 15:00 | Coffee break                                                                                  |
+| 15:30 | Chung Ming Loi (Durham Uni.): UM-Bridge models in the cloud and on classical HPC              |
+| 16:00 | Practical: UM-Bridge cloud + HPC / Participants' projects                                     |
+| 17:00 | Wrap up                                                                                       |
 
 
 Wednesday, 10. December 2025
-Time 	Session
-13:00 	Invited talk: William Hornsby, UKAEA
-13:30 	Short talks
-14:00 	Short break / discussion
-14:30 	Invited talk: Amal Mohammed A Alghamdi, Technical University of Denmark
-15:00 	Short talks
-15:30 	Coffee break
-16:00 	Short talks
-16:20 	Invited Talk: Linus Seelinger, Pasteur Labs
-16:50 Closing Remarks / Wrap-up
-  
+| Time  | Session                                                                 |
+| ----- | ----------------------------------------------------------------------- |
+| 13:00 | Invited talk: William Hornsby, UKAEA                                    |
+| 13:30 | Short talks                                                             |
+| 14:00 | Short break / discussion                                                |
+| 14:30 | Invited talk: Amal Mohammed A Alghamdi, Technical University of Denmark |
+| 15:00 | Short talks                                                             |
+| 15:30 | Coffee break                                                            |
+| 16:00 | Short talks                                                             |
+| 16:20 | Invited Talk: Linus Seelinger, Pasteur Labs                             |
+| 16:50 | Closing Remarks / Wrap-up                                               |
+
 
