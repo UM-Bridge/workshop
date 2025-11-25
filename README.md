@@ -67,4 +67,10 @@ Wednesday, 10. December 2025
 | 16:20 | Invited Talk: Linus Seelinger, Pasteur Labs                             |
 | 16:50 | Closing Remarks / Wrap-up                                               |
 
+## Abstracts
+
+ Amal Mohammed A Alghamdi: Bayesian inversion of CT data to characterize transport in the mouse ear
+
+Recent studies in rodents and humans show that gene therapy agents or tracers injected into the cerebrospinal fluid (CSF) reach the inner ear. The communication of fluid between the cochlear and the subarachnoid spaces of the brain has been controversial for decades. Observations of transport between the cochlea and the subarachnoid space contrast with the different composition of the fluids. The recent discovery of a membrane in the cochlear aqueduct raises further questions about the restrictions of transport between the compartments. This study aims to numerically quantify the diffusive and advective modes of transport of inert molecules from CSF to an intact cochlea. We use imaging data of the transport of a small tracer through the cochlear aqueduct in five sedated mice (8-week-old males). To estimate the transport model parameters, we formulate and solve a Bayesian inverse problem in which we allow the diffusivity to vary in the presence of potential membranes. We also discuss how modeling choices affect the inference. We carry out the implementation using the software tool CUQIpy (Computational Uncertainty Quantification for Inverse Problems in Python). In this talk we also introduce CUQIpy-UMBridge plugin which allows CUQIpy models and distributions to be served via an Um-Bridge server.
+
 
