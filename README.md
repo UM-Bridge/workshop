@@ -67,10 +67,12 @@ Wednesday, 10. December 2025
 | 16:20 | Invited Talk: Linus Seelinger, Pasteur Labs                             |
 | 16:50 | Closing Remarks / Wrap-up                                               |
 
-## Abstracts
+## Invited Talk Abstracts
 
- Amal Mohammed A Alghamdi: Bayesian inversion of CT data to characterize transport in the mouse ear
+ #### Amal Mohammed A Alghamdi: Bayesian inversion of CT data to characterize transport in the mouse ear
 
 Recent studies in rodents and humans show that gene therapy agents or tracers injected into the cerebrospinal fluid (CSF) reach the inner ear. The communication of fluid between the cochlear and the subarachnoid spaces of the brain has been controversial for decades. Observations of transport between the cochlea and the subarachnoid space contrast with the different composition of the fluids. The recent discovery of a membrane in the cochlear aqueduct raises further questions about the restrictions of transport between the compartments. This study aims to numerically quantify the diffusive and advective modes of transport of inert molecules from CSF to an intact cochlea. We use imaging data of the transport of a small tracer through the cochlear aqueduct in five sedated mice (8-week-old males). To estimate the transport model parameters, we formulate and solve a Bayesian inverse problem in which we allow the diffusivity to vary in the presence of potential membranes. We also discuss how modeling choices affect the inference. We carry out the implementation using the software tool CUQIpy (Computational Uncertainty Quantification for Inverse Problems in Python). In this talk we also introduce CUQIpy-UMBridge plugin which allows CUQIpy models and distributions to be served via an Um-Bridge server.
 
+#### William Hornsby: The use of turbulence surrogate models in plasma integrated modelling
 
+Abstract: Plasma micro-turbulence is one of the dominant transport mechanisms of heat from the core of a fusion power plant. Direct numerical calculation of the micro-instabilities that form turbulence is computationally expensive and is a significant bottleneck in integrated plasma modelling, in which the many physical processes are coupled to predict reactor-level behaviour and to optimise operational scenarios of fusion power plants. The considerable number of geometric and thermodynamic parameters, the interactions that influence the turbulence and the resolutions needed to accurately resolve these turbulent modes, makes direct numerical simulation for parameter space exploration computationally extremely challenging. However, this makes it suitable for surrogate modelling, where speed ups of up to 105 are possible making rapid scenario development a possibility. In this talk the integrated plasma modelling use-case will be introduced as well as the turbulence surrogate modelling efforts at UKAEA, including how the models are integrated into larger workflows.
