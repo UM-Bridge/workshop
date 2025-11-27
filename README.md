@@ -59,7 +59,7 @@ Wednesday, 10. December 2025
 | ----- | ----------------------------------------------------------------------- |
 | 13:00 | Invited talk: William Hornsby, UKAEA                                    |
 | 13:30 | Louise Kluge: Bayesian Inference in Expensive Models using MLDA and GP-Surrogates    |
-|       | Vikas Kurapti: Fused ensembles of dynamic‑rupture earthquake simulations to accelerate Bayesian inference    |
+|       | Vikas Kurapati: Fused ensembles of dynamic‑rupture earthquake simulations to accelerate Bayesian inference    |
 | 14:00 | Short break / discussion                                                |
 | 14:30 | Invited talk: Amal Mohammed A Alghamdi, Technical University of Denmark |
 | 15:00 | Lightning talks (various)                                               |
@@ -78,7 +78,7 @@ Recent studies in rodents and humans show that gene therapy agents or tracers in
 
 Abstract: Plasma micro-turbulence is one of the dominant transport mechanisms of heat from the core of a fusion power plant. Direct numerical calculation of the micro-instabilities that form turbulence is computationally expensive and is a significant bottleneck in integrated plasma modelling, in which the many physical processes are coupled to predict reactor-level behaviour and to optimise operational scenarios of fusion power plants. The considerable number of geometric and thermodynamic parameters, the interactions that influence the turbulence and the resolutions needed to accurately resolve these turbulent modes, makes direct numerical simulation for parameter space exploration computationally extremely challenging. However, this makes it suitable for surrogate modelling, where speed ups of up to 105 are possible making rapid scenario development a possibility. In this talk the integrated plasma modelling use-case will be introduced as well as the turbulence surrogate modelling efforts at UKAEA, including how the models are integrated into larger workflows.
 
-#### Vikas Kurapti: Fused ensembles of dynamic‑rupture earthquake simulations to accelerate Bayesian inference  
+#### Vikas Kurapati: Fused ensembles of dynamic‑rupture earthquake simulations to accelerate Bayesian inference  
 
 Understanding earthquake dynamics is essential for seismic hazard assessment and risk mitigation. 
 In this context, Bayesian inference yields valuable insights into model parameters through a combination of simulation models and real-world data. 
