@@ -45,10 +45,10 @@ Tuesday, 9. December 2025
 | 13:00 | Welcome                                                                                       |
 | 13:05 | Anne Reinarz (Durham University): Introduction to UM-Bridge                                   |
 | 13:40 | Practical: UM-Bridge basics / Participants' projects                                          |
-| 14:20 | Anne Reinarz (Durham University): Intro containers, containerized UM-Bridge models/benchmarks |
+| 14:20 | Alan Correa (RWTH Aachen): Intro containers, containerized UM-Bridge models/benchmarks |
 | 14:40 | Practical: Containerized models / Participants' projects                                      |
 | 15:00 | Coffee break                                                                                  |
-| 15:30 | Chung Ming Loi (Durham Uni.): UM-Bridge models in the cloud and on classical HPC              |
+| 15:30 | Chung Ming Loi (Durham University): UM-Bridge models in the cloud and on classical HPC              |
 | 16:00 | Practical: UM-Bridge cloud + HPC / Participants' projects                                     |
 | 17:00 | Wrap up                                                                                       |
 
@@ -58,13 +58,16 @@ Wednesday, 10. December 2025
 | Time  | Session                                                                 |
 | ----- | ----------------------------------------------------------------------- |
 | 13:00 | Invited talk: William Hornsby, UKAEA                                    |
+| | The use of turbulence surrogate models in plasma integrated modelling|
 | 13:30 | Louise Kluge: Bayesian Inference in Expensive Models using MLDA and GP-Surrogates    |
 |       | Vikas Kurapati: Fused ensembles of dynamic‑rupture earthquake simulations to accelerate Bayesian inference    |
 | 14:00 | Short break / discussion                                                |
 | 14:30 | Invited talk: Amal Mohammed A Alghamdi, Technical University of Denmark |
-| 15:00 | Lightning talks (various)                                               |
+| | Bayesian inversion of CT data to characterize transport in the mouse ear |
+| 15:00 | Alan Correa: Robustifying Model-Based Engineering Workflows: A Sustainable Approach to Manage Heterogeneity                                              |
+|       | Juliette Dubois: Bayesian Inference for coupled acoustic-gravity systems |
 | 15:30 | Coffee break                                                            |
-| 16:00 | Short talks                                                             |
+| 16:00 | Lightning talks (various)                                                             |
 | 16:20 | Invited Talk: Linus Seelinger, Pasteur Labs                             |
 | 16:50 | Closing Remarks / Wrap-up                                               |
 
@@ -77,6 +80,16 @@ Recent studies in rodents and humans show that gene therapy agents or tracers in
 #### William Hornsby: The use of turbulence surrogate models in plasma integrated modelling
 
 Abstract: Plasma micro-turbulence is one of the dominant transport mechanisms of heat from the core of a fusion power plant. Direct numerical calculation of the micro-instabilities that form turbulence is computationally expensive and is a significant bottleneck in integrated plasma modelling, in which the many physical processes are coupled to predict reactor-level behaviour and to optimise operational scenarios of fusion power plants. The considerable number of geometric and thermodynamic parameters, the interactions that influence the turbulence and the resolutions needed to accurately resolve these turbulent modes, makes direct numerical simulation for parameter space exploration computationally extremely challenging. However, this makes it suitable for surrogate modelling, where speed ups of up to 105 are possible making rapid scenario development a possibility. In this talk the integrated plasma modelling use-case will be introduced as well as the turbulence surrogate modelling efforts at UKAEA, including how the models are integrated into larger workflows.
+
+
+#### Alan Correa: Robustifying Model-Based Engineering Workflows: A Sustainable Approach to Manage Heterogeneity
+
+Model-based development, design, decision support, and diagnostics in engineering applications often require complex workflows. These workflows involve heterogeneity across their components: data, computational models, analysis techniques, compute environments -- including programming languages, operating systems, and hardware platforms -- and importantly, humans who bring diverse skill sets and preferred tools. Building robust, agile, and scalable end-to-end model-based workflows thus presents a significant challenge, limiting the usability and subsequent reusability of the generated digital assets, including software, data and workflows.
+
+We present SHOWME.how -- A solution to heterogeneous workflows in model-based engineering applications based on three key pillars: Isolation, Interoperation, and Orchestration. Firstly, we isolate computational units using technologies like cross-platform package managers (e.g., Conda, Mamba) and containerization (e.g., Docker, Aptainer). Secondly, we enable these computational units to interoperate with each other and exchange data through language-agnostic file formats (e.g., JSON, HDF5, Zarr) for data interchange and platform-agnostic transfer protocols (e.g., HTTP, S3) for data exchange. 
+An exemplary implementation is UM-Bridge, which enables cross-language interoperability via HTTP and JSON while providing a streamlined interface for coupling model codes with uncertainty quantification libraries. Lastly, we orchestrate the computational units along with the data using modern graph-based workflow managers (e.g., Nextflow or Snakemake). Such an approach not only enhances the combined value of individual workflow components through synergy, but also enables the reuse of existing research software, or parts of it, in its native environment, eliminating the need to build wrappers, develop language-bridging interfaces, or rely on suboptimal implementations. Ultimately, this facilitates the rapid and seamless integration of state-of-the-art research methodologies into application-driven engineering tasks.
+
+
 
 #### Vikas Kurapati: Fused ensembles of dynamic‑rupture earthquake simulations to accelerate Bayesian inference  
 
