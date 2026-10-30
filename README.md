@@ -24,8 +24,8 @@ This workshop has the following goals:
 ## Time and Location
 
 The workshop will be held online and span two half days:
-* Monday, December 7 2025, 13:00 - 17:00 CET
-* Tuesday, December 8 2025, 13:00 - 17:00 CET
+* Monday, December 7 2026, 13:00 - 17:00 CET
+* Tuesday, December 8 2026, 13:00 - 17:00 CET
 
 ## Registration
 
@@ -38,7 +38,7 @@ For practical exercises, you will need working installations of
 * Python
 
 ## Schedule
-Tuesday, 9 December 2025
+Tuesday, 9 December 2026
 
 | Time  | Session                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------- |
@@ -53,7 +53,7 @@ Tuesday, 9 December 2025
 | 17:00 | Wrap up                                                                                       |
 
 
-Wednesday, 10 December 2025
+Wednesday, 10 December 2026
 
 | Time  | Session                                                                 |
 | ----- | ----------------------------------------------------------------------- |
