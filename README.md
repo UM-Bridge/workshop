@@ -38,7 +38,7 @@ For practical exercises, you will need working installations of
 * Python
 
 ## Schedule
-Tuesday, 9 December 2026
+Monday, 7 December 2026
 
 | Time  | Session                                                                                       |
 | ----- | --------------------------------------------------------------------------------------------- |
@@ -57,7 +57,7 @@ Tuesday, 9 December 2026
 | 17:00 | Wrap up                                                                                       |
 
 
-Wednesday, 10 December 2026
+Tuesday, 8 December 2026
 
 | Time  | Session                                                                 |
 | ----- | ----------------------------------------------------------------------- |
