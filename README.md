@@ -48,11 +48,11 @@ Monday, 7 December 2026
 | 14:20 | TBD : Intro containers, containerized UM-Bridge models/benchmarks |
 | 14:40 | Practical: Containerized models / Participants' projects                                      |
 | 15:00 | Coffee break                                                                                  |
-| 15:30 | Laura Scarbosio, Radboud University      |
+| 15:30 | Andrea Morini: Technical University of Braunschweig      |
 |       | Title: TBD
 | 16:00 | Alice Gabriel, UC San Diego                                |
 |       | Title: TBD                                             |
-| 16:30 | Andrea Morini: Technical University of Braunschweig      |
+| 16:30 | Laura Scarbosio, Radboud University      |
 |       | Title: TBD                                                 |
 | 17:00 | Wrap up                                                                                       |
 
