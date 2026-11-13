@@ -45,14 +45,14 @@ Monday, 7 December 2026
 | 13:00 | Welcome                                                                                       |
 | 13:05 | Anne Reinarz (Durham University): Introduction to UM-Bridge                                   |
 | 13:40 | Practical: UM-Bridge basics / Participants' projects                                          |
-| 14:20 | TBD : Intro containers, containerized UM-Bridge models/benchmarks |
+| 14:20 | TBD : Intro containers, containerized UM-Bridge models/benchmarks                             |
 | 14:40 | Practical: Containerized models / Participants' projects                                      |
 | 15:00 | Coffee break                                                                                  |
-| 15:30 | Andrea Morini: Technical University of Braunschweig      |
-|       | Title: TBD
-| 16:00 | Alice Gabriel, UC San Diego                                |
-|       | Title: TBD                                             |
-| 16:30 | Laura Scarbosio, Radboud University      |
+| 15:30 | Andrea Morini: Technical University of Braunschweig                                           |
+|       | Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBridge.jl       |
+| 16:00 | Alice Gabriel, UC San Diego                                                                   |
+|       | Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol     |
+| 16:30 | Laura Scarbosio, Radboud University and Juliette Dubois, TU Berlin                            |
 |       | Title: TBD                                                 |
 | 17:00 | Wrap up                                                                                       |
 
@@ -75,4 +75,18 @@ Tuesday, 8 December 2026
 
 ## Abstracts
 
-TBD
+Speaker: Andrea Morini
+Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBridge.jl
+
+Abstract: A recent publication in the solid mechanics community provides an algorithm which combines a Bayesian based assimilation technique (statFEM) with an unsupervised calibration-discovery method (EUCLID), which aims to provide a reliable prognosis in the context of sparse and noisy displacement measurements. 
+The method showed promising results for synthetic data so that it was decided to provide a software package, StatFEMEUCLID.jl, that can be integrated in the existing framework concerning either the uncertainty quantification or the model calibration topic. 
+StatFEM-EUCLID relies on the solution of a finite element model and therefore requires an interface with a FE solver. Given the wide variety of solvers available in the computational mechanics community, including in-house implementations developed by individual research groups, we designed the StatFEMEUCLID.jl package around UM-Bridge. This choice promotes reproducibility and flexibility from the user to the choice the FE solver is more comfortable with.
+
+Speaker: Alice Gabriel
+Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol
+
+Abstract: Physics-based dynamic rupture simulations couple fault friction, earthquake source processes and seismic wave propagation, but their inputs (fault stresses, friction parameters, subsurface structure) are poorly constrained. I will show how we combine the open-source software SeisSol, running on supercomputers, with UM-Bridge for uncertainty quantification of earthquake rupture models, and discuss other UQ applications in our group that do not (yet) use UM-Bridge, with lessons learned for coupling large HPC codes to UQ workflows.
+
+
+
+
