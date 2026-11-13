@@ -55,7 +55,7 @@ Monday, 7 December 2026
 | 16:00 | Alice Gabriel, UC San Diego                                                                   |
 |       | Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol     |
 | 16:30 | Laura Scarbosio, Radboud University and Juliette Dubois, TU Berlin                            |
-|       | Title: TBD                                                 |
+|       | Title: High-Dimensional Bayesian Level Set Inversion in Time-Domain Acoustic Waves with UM-Bridge |
 | 17:00 | Wrap up                                                                                       |
 
 
@@ -93,6 +93,20 @@ Speaker: Alice Gabriel
 Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol
 
 Abstract: Physics-based dynamic rupture simulations couple fault friction, earthquake source processes and seismic wave propagation, but their inputs (fault stresses, friction parameters, subsurface structure) are poorly constrained. I will show how we combine the open-source software SeisSol, running on supercomputers, with UM-Bridge for uncertainty quantification of earthquake rupture models, and discuss other UQ applications in our group that do not (yet) use UM-Bridge, with lessons learned for coupling large HPC codes to UQ workflows.
+
+Speakers: Laura Scarbosio, Juliette Dubois
+
+Title: High-Dimensional Bayesian Level Set Inversion in Time-Domain Acoustic Waves with UM-Bridge
+
+Abstract: Reconstructing the velocity of seabed displacement from indirect measurements is a central
+task in early tsunami detection. Pressure measurements in the ocean provide a promising
+approach that can complement seismic data. We formulate this problem as a high-dimensional Bayesian inverse problem and discuss its implementation using UM-Bridge.
+
+We introduce a statistical and physical model in which the seabed velocity is represented
+through a level set prior, entering as a boundary condition in a time-domain acoustic
+wave equation. To mitigate the effect of phase shifts in the pressure time series data, we employ a Wasserstein log-likelihood. 
+
+We then discuss sampling from the posterior, where the forward DG solver and a Markov Chain Monte Carlo algorithm communicate via UM-Bridge. We will conclude with some numerical results demonstrating the feasibility of the approach, as well as the impact of wave propagation physics and likelihood hyperparameters on the reconstruction. 
 
 
 
