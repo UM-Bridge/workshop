@@ -1,6 +1,6 @@
 # UM-Bridge Workshop 2026
 
-![UM-Bridge logo](/UM-bridge-logo.png)
+![UM-Bridge logo](/UM-Bridge-logo.png)
 
 UM-Bridge is a language-agnostic interface linking Uncertainty Quantification (UQ) packages and numerical model software. It allows
 
