@@ -50,6 +50,8 @@ Monday, 7 December 2026
 | 15:00 | Coffee break                                                                                  |
 | 15:30 | Andrea Morini: Technical University of Braunschweig                                           |
 |       | Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBridge.jl       |
+| 15:45 | Rui Carvalho, Durham University                                                               |       
+|       | Title: Fast and Principled Equation Discovery from Chaos to Climate                           |       
 | 16:00 | Alice Gabriel, UC San Diego                                                                   |
 |       | Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol     |
 | 16:30 | Laura Scarbosio, Radboud University and Juliette Dubois, TU Berlin                            |
@@ -81,6 +83,11 @@ Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBr
 Abstract: A recent publication in the solid mechanics community provides an algorithm which combines a Bayesian based assimilation technique (statFEM) with an unsupervised calibration-discovery method (EUCLID), which aims to provide a reliable prognosis in the context of sparse and noisy displacement measurements. 
 The method showed promising results for synthetic data so that it was decided to provide a software package, StatFEMEUCLID.jl, that can be integrated in the existing framework concerning either the uncertainty quantification or the model calibration topic. 
 StatFEM-EUCLID relies on the solution of a finite element model and therefore requires an interface with a FE solver. Given the wide variety of solvers available in the computational mechanics community, including in-house implementations developed by individual research groups, we designed the StatFEMEUCLID.jl package around UM-Bridge. This choice promotes reproducibility and flexibility from the user to the choice the FE solver is more comfortable with.
+
+Speaker: Rui Carvalho
+Title: Fast and Principled Equation Discovery from Chaos to Climate
+
+Abstract: Our ability to predict, control and understand complex systems rests on discovering their governing equations. Existing methods for identifying them from noisy and limited observations force a compromise between automation, statistical rigor and computational efficiency. Here we develop Bayesian-ARGOS, which combines rapid frequentist screening of a large candidate library with Bayesian inference on the terms retained, enabling automated equation discovery with principled uncertainty quantification, conditional on the screened candidate library, at a fraction of the computational cost of existing methods. On seven chaotic systems, Bayesian-ARGOS recovers the equations more reliably than two established methods in most cases, and its diagnostics explain why more data or less noise can lower the success rate. Integrated with representation learning, it identifies the latent dynamics of global sea-surface temperature, consistently recovers the annual cycle and shows that the uncertainty usually leaves undecided whether the slow variation grows or decays. Bayesian-ARGOS opens automated, uncertainty-aware equation discovery to climate science and other fields seeking mechanistic understanding.
 
 Speaker: Alice Gabriel
 Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol
