@@ -48,7 +48,7 @@ Monday, 7 December 2026
 | 14:20 | TBD : Intro containers, containerized UM-Bridge models/benchmarks                             |
 | 14:40 | Practical: Containerized models / Participants' projects                                      |
 | 15:00 | Coffee break                                                                                  |
-| 15:30 | Andrea Morini: Technical University of Braunschweig                                           |
+| 15:30 | Andrea Morini, Technical University of Braunschweig                                           |
 |       | Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBridge.jl       |
 | 15:45 | Rui Carvalho, Durham University                                                               |       
 |       | Title: Fast and Principled Equation Discovery from Chaos to Climate                           |       
@@ -66,17 +66,17 @@ Tuesday, 8 December 2026
 | 13:00 | Chung Ming Loi (Durham University): UM-Bridge models in the cloud and on classical HPC               |
 | 13:30 | Practical: UM-Bridge cloud + HPC / Participants' projects        |
 | 14:00 | Short break / discussion                                                |
-| 14:30 | Mario Wille, Technical University of Munich                                            |
+| 14:30 | Lightning talks                                                           |
+|       | Andrés Miniguano-Trujillo (King’s College London)                                               |
+|       | Kseniia Kurishchenko (Barcelona Supercomputing Center)                                                    |
+|       | Stefania Colombo (Politecnico di Milano)                                                       |
+| 15:00 | Mario Wille, Technical University of Munich                                            |
 |       | Title: TBD                                                       |
-| 15:00 | Chung Ming Loi, Durham University                                            |
+| 15:30 | Chung Ming Loi, Durham University                                            |
 |       | Title: TBD                                                |
-| 15:30 | Coffee break                                                            |
-| 16:00 | Lightning talks                                                           |
-|       | Andrés Miniguano-Trujillo                                               |
-|       | Kseniia Kurishchenko                                                    |
-|       | Stefania Colombo                                                        |
-| 16:20 | Invited Talk: TBD                       |
-| 16:50 | Closing Remarks / Wrap-up                                               |
+| 16:00 | Coffee break                                                            |
+| 16:30 | Invited Talk: TBD                       |
+| 17:00 | Closing Remarks / Wrap-up                                               |
 
 ## Abstracts
 
