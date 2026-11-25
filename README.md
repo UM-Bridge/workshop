@@ -71,7 +71,10 @@ Tuesday, 8 December 2026
 | 15:00 | Chung Ming Loi, Durham University                                            |
 |       | Title: TBD                                                |
 | 15:30 | Coffee break                                                            |
-| 16:00 | Lightning talks (various)                                                             |
+| 16:00 | Lightning talks                                                           |
+|       | Andrés Miniguano-Trujillo                                               |
+|       | Kseniia Kurishchenko                                                    |
+|       | Stefania Colombo                                                        |
 | 16:20 | Invited Talk: TBD                       |
 | 16:50 | Closing Remarks / Wrap-up                                               |
 
