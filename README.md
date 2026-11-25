@@ -80,36 +80,39 @@ Tuesday, 8 December 2026
 
 ## Abstracts
 
-Speaker: Andrea Morini
-Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBridge.jl
+- **Speaker: Andrea Morini**
 
-Abstract: A recent publication in the solid mechanics community provides an algorithm which combines a Bayesian based assimilation technique (statFEM) with an unsupervised calibration-discovery method (EUCLID), which aims to provide a reliable prognosis in the context of sparse and noisy displacement measurements. 
+   Title: StatFEMEUCLID.jl: Data assimilation and model discovery supported by UMBridge.jl
+
+   Abstract: A recent publication in the solid mechanics community provides an algorithm which combines a Bayesian based assimilation technique (statFEM) with an unsupervised calibration-discovery method (EUCLID), which aims to provide a reliable prognosis in the context of sparse and noisy displacement measurements. 
 The method showed promising results for synthetic data so that it was decided to provide a software package, StatFEMEUCLID.jl, that can be integrated in the existing framework concerning either the uncertainty quantification or the model calibration topic. 
 StatFEM-EUCLID relies on the solution of a finite element model and therefore requires an interface with a FE solver. Given the wide variety of solvers available in the computational mechanics community, including in-house implementations developed by individual research groups, we designed the StatFEMEUCLID.jl package around UM-Bridge. This choice promotes reproducibility and flexibility from the user to the choice the FE solver is more comfortable with.
 
-Speaker: Rui Carvalho
-Title: Fast and Principled Equation Discovery from Chaos to Climate
+- **Speaker: Rui Carvalho**
 
-Abstract: Our ability to predict, control and understand complex systems rests on discovering their governing equations. Existing methods for identifying them from noisy and limited observations force a compromise between automation, statistical rigor and computational efficiency. Here we develop Bayesian-ARGOS, which combines rapid frequentist screening of a large candidate library with Bayesian inference on the terms retained, enabling automated equation discovery with principled uncertainty quantification, conditional on the screened candidate library, at a fraction of the computational cost of existing methods. On seven chaotic systems, Bayesian-ARGOS recovers the equations more reliably than two established methods in most cases, and its diagnostics explain why more data or less noise can lower the success rate. Integrated with representation learning, it identifies the latent dynamics of global sea-surface temperature, consistently recovers the annual cycle and shows that the uncertainty usually leaves undecided whether the slow variation grows or decays. Bayesian-ARGOS opens automated, uncertainty-aware equation discovery to climate science and other fields seeking mechanistic understanding.
+   Title: Fast and Principled Equation Discovery from Chaos to Climate
 
-Speaker: Alice Gabriel
-Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol
+   Abstract: Our ability to predict, control and understand complex systems rests on discovering their governing equations. Existing methods for identifying them from noisy and limited observations force a compromise between automation, statistical rigor and computational efficiency. Here we develop Bayesian-ARGOS, which combines rapid frequentist screening of a large candidate library with Bayesian inference on the terms retained, enabling automated equation discovery with principled uncertainty quantification, conditional on the screened candidate library, at a fraction of the computational cost of existing methods. On seven chaotic systems, Bayesian-ARGOS recovers the equations more reliably than two established methods in most cases, and its diagnostics explain why more data or less noise can lower the success rate. Integrated with representation learning, it identifies the latent dynamics of global sea-surface temperature, consistently recovers the annual cycle and shows that the uncertainty usually leaves undecided whether the slow variation grows or decays. Bayesian-ARGOS opens automated, uncertainty-aware equation discovery to climate science and other fields seeking mechanistic understanding.
 
-Abstract: Physics-based dynamic rupture simulations couple fault friction, earthquake source processes and seismic wave propagation, but their inputs (fault stresses, friction parameters, subsurface structure) are poorly constrained. I will show how we combine the open-source software SeisSol, running on supercomputers, with UM-Bridge for uncertainty quantification of earthquake rupture models, and discuss other UQ applications in our group that do not (yet) use UM-Bridge, with lessons learned for coupling large HPC codes to UQ workflows.
+- **Speaker: Alice Gabriel**
 
-Speakers: Laura Scarbosio, Juliette Dubois
+   Title: Uncertainty quantification for earthquake dynamic rupture simulations with SeisSol
 
-Title: High-Dimensional Bayesian Level Set Inversion in Time-Domain Acoustic Waves with UM-Bridge
+   Abstract: Physics-based dynamic rupture simulations couple fault friction, earthquake source processes and seismic wave propagation, but their inputs (fault stresses, friction parameters, subsurface structure) are poorly constrained. I will show how we combine the open-source software SeisSol, running on supercomputers, with UM-Bridge for uncertainty quantification of earthquake rupture models, and discuss other UQ applications in our group that do not (yet) use UM-Bridge, with lessons learned for coupling large HPC codes to UQ workflows.
 
-Abstract: Reconstructing the velocity of seabed displacement from indirect measurements is a central
+- **Speakers: Laura Scarbosio, Juliette Dubois**
+
+   Title: High-Dimensional Bayesian Level Set Inversion in Time-Domain Acoustic Waves with UM-Bridge
+
+   Abstract: Reconstructing the velocity of seabed displacement from indirect measurements is a central
 task in early tsunami detection. Pressure measurements in the ocean provide a promising
 approach that can complement seismic data. We formulate this problem as a high-dimensional Bayesian inverse problem and discuss its implementation using UM-Bridge.
 
-We introduce a statistical and physical model in which the seabed velocity is represented
+   We introduce a statistical and physical model in which the seabed velocity is represented
 through a level set prior, entering as a boundary condition in a time-domain acoustic
 wave equation. To mitigate the effect of phase shifts in the pressure time series data, we employ a Wasserstein log-likelihood. 
 
-We then discuss sampling from the posterior, where the forward DG solver and a Markov Chain Monte Carlo algorithm communicate via UM-Bridge. We will conclude with some numerical results demonstrating the feasibility of the approach, as well as the impact of wave propagation physics and likelihood hyperparameters on the reconstruction. 
+   We then discuss sampling from the posterior, where the forward DG solver and a Markov Chain Monte Carlo algorithm communicate via UM-Bridge. We will conclude with some numerical results demonstrating the feasibility of the approach, as well as the impact of wave propagation physics and likelihood hyperparameters on the reconstruction. 
 
 
 
