@@ -71,7 +71,7 @@ Tuesday, 8 December 2026
 |       | Kseniia Kurishchenko (Barcelona Supercomputing Center)                                                    |
 |       | Stefania Colombo (Politecnico di Milano)                                                       |
 | 15:00 | Mario Wille, Technical University of Munich                                            |
-|       | Title: TBD                                                       |
+|       | Title: High-Order ADER-DG on GPUs for Uncertainty Quantification of Landslide Tsunamis with ExaHyPE and UM-Bridge         |
 | 15:30 | Chung Ming Loi, Durham University                                            |
 |       | Title: TBD                                                |
 | 16:00 | Coffee break                                                            |
@@ -114,6 +114,11 @@ wave equation. To mitigate the effect of phase shifts in the pressure time serie
 
    We then discuss sampling from the posterior, where the forward DG solver and a Markov Chain Monte Carlo algorithm communicate via UM-Bridge. We will conclude with some numerical results demonstrating the feasibility of the approach, as well as the impact of wave propagation physics and likelihood hyperparameters on the reconstruction. 
 
+- **Speaker: Mario Wille**
+  
+  Title: High-Order ADER-DG on GPUs for Uncertainty Quantification of Landslide Tsunamis with ExaHyPE and UM-Bridge
+
+  Abstract: Landslide-generated tsunamis are hard to predict because their impact depends on uncertain slide parameters such as volume, friction and rheology. Quantifying these uncertainties requires many runs of expensive, high-resolution simulations. ExaHyPE is an open-source engine that solves hyperbolic PDEs with arbitrary high-order derivative (ADER) discontinuous Galerkin methods and a posteriori finite volume subcell limiting. It runs on GPUs from all major vendors on supercomputers. We have already coupled ExaHyPE tsunami models to UQ methods through UM-Bridge for a multilevel Bayesian inversion of an earthquake source. Our goal is now to extend this workflow from earthquake-generated tsunamis to landslide-generated tsunamis. With ExaSkred, built on ExaHyPE, we simulate the landslide together with the tsunami it generates on adaptive grids entirely on GPUs and present our first steps towards UQ for these coupled simulations.
 
 
 
